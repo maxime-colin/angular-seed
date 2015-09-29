@@ -82,7 +82,7 @@ module.exports = function (grunt) {
 		inline_angular_templates: {
 			dist: {
 				options: {
-					base: '<%= sourceFolder %>',
+					base: '<%= sourceFolder %>/scripts',
 					selector: '.inline-templates',
 					method: 'replaceWith'
 				},
