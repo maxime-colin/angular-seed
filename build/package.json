@@ -1,0 +1,16 @@
+{
+  "name": "project-build",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "~3.0.3",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "~0.9.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-inline-angular-templates": "~0.1.5",
+    "grunt-newer": "~0.7.0",
+    "grunt-ng-annotate": "^0.4.0"
+  }
+}
